@@ -126,6 +126,7 @@ class BcLineNotifyControllerEventListener extends BcControllerEventListener {
 		$resutlArray = json_decode($resultJson, true);
 
 		if($resutlArray['status'] != 200)  {
+			$this->log($resultJson);
 			return false;
 		}
 		return true;
