@@ -9,6 +9,8 @@
 3. 設定画面( /admin/bc_line_notify/bc_line_notifies/config ) にて アクセストークン、通知するメールフォームを設定してください。
 4. お問合せフォームでお問い合わせがあると、LINEに通知が届くようになります。
 
+アクセストークンについては https://blog.kaburk.com/blog/archives/164 を御覧ください。
+
 ## Caution
 
 1時間にAPIをcallできる回数の上限が1000回（デフォルト）とのことです。

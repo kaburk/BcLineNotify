@@ -46,6 +46,8 @@
 					<ul>
 						<li>複数人で通知を受信したい場合はトークグループを準備して「LINE Notify」を「友だちの招待」で検索して追加してください。</li>
 					</ul>
+
+					※ <a href="https://blog.kaburk.com/blog/archives/164" target="_blank">ブログ記事</a> も参考にしてください。
 				</p>
 			</td>
 <?php
